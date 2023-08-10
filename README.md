@@ -1,4 +1,4 @@
-# Eight-Bitify
+# Eightbitify
 Make any picture 8-bit
 
 <h1>Instructions</h1>
