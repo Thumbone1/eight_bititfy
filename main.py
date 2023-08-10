@@ -1,5 +1,5 @@
 from skimage import io
-from pyxelate import Pyx, Pal
+from pyxelate import Pyx
 
 
 image = io.imread("your_image.jpg")
